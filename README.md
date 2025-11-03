@@ -1,6 +1,7 @@
  🗂️ Simple File Explorer (C++)
 A **command-line based File Explorer** built in **C++17** using the `<filesystem>` library.
 It allows users to navigate directories, manage files, and perform basic file system operations — similar to a mini shell file manager.
+
 🚀 Features
 ✅ **List Files & Directories**
 ✅ **Navigate Between Folders (cd)**
@@ -96,7 +97,3 @@ FileExplorer/
 
 This project is open-source and available under the **MIT License**.
 
----
-
-Would you like me to make it more **college-project style** (simpler and shorter, with sections like “Aim”, “Algorithm”, “Output Screenshot”, “Conclusion”)?
-That version is better for **B.Tech submissions or reports**.
